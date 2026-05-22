@@ -18,7 +18,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de 
 public class WesleyRodrigues
 {
     public string Role => "Backend Developer";
-    public string MainStack => ".NET & Node.js";
+    public string MainStack => ".NET Core";
     public string Location => "Rio de Janeiro, Brazil";
 
     public string[] Skills =>
