@@ -1,9 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:4F46E5&height=130&section=header&text=Wesley%20Rodrigues&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <div align="center">
-
-# Wesley Rodrigues
-
 ### Backend Developer • .NET Engineer • Software Enthusiast
 
 <p>
